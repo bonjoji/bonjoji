@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @bonjoji
-- 👀 I’m interested in ... tba
-- 🌱 I’m currently learning ... tba
-- 💞️ I’m looking to collaborate on ... tba
-- 📫 How to reach me ... tba
+sorry, not much to see here ... come back later. cheers!
 
 <!---
 bonjoji/bonjoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
